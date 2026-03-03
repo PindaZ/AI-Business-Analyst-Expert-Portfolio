@@ -12,10 +12,12 @@ This module focuses on the initial phase of any AI initiative: identifying where
 ## Module Structure
 
 ### 1. [Foundational Theory](./01-Foundational-Theory/)
+- **[The Economics of Token-Based Consumption Models](./01-Foundational-Theory/Token-Economics-Consumption-Models.md)**: Understanding marginal costs in the AI economy.
 - **[The AI Opportunity Matrix](./01-Foundational-Theory/AI-Opportunity-Matrix.md)**: Prioritizing AI initiatives via Impact vs. Feasibility.
 - **The-Economics-of-Generative-AI.md**: Understanding the cost-benefit of LLMs in the enterprise.
 
 ### 2. [Strategic Frameworks](./02-Strategic-Frameworks/)
+- **[Value Chain Analysis for Multi-Agent Integration](./02-Strategic-Frameworks/Value-Chain-Analysis-Multi-Agent.md)**: Identifying AI disruption points in the value chain.
 - **[Build vs. Buy vs. Tune Framework](./02-Strategic-Frameworks/Build-vs-Buy-vs-Tune-Framework.md)**: A decision-making guide for AI acquisition.
 - **Value-Chain-Analysis-for-AI-Integration.md**: Mapping AI onto the corporate value chain.
 

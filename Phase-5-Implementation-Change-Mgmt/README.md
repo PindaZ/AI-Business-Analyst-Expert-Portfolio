@@ -1,1 +1,11 @@
 # Module 5: Implementation & Change Management\n\nScaling AI adoption, workforce upskilling, and process redesign.
+
+## Module Structure
+
+### 1. [Foundational Theory](./01-Foundational-Theory/)
+- **[AI-Adoption-Curve](./01-Foundational-Theory/AI-Adoption-Curve.md)**: Managing the psychology of change.
+- **[Upskilling for the "AI Headcount": Redefining Jobs](./01-Foundational-Theory/Upskilling-AI-Headcount-Job-Redefinition.md)**: The human-agent workforce.
+
+### 2. [Strategic Frameworks](./02-Strategic-Frameworks/)
+- **[Upskilling-Roadmap](./02-Strategic-Frameworks/Upskilling-Roadmap.md)**: Step-by-step training plans.
+- **[The BA as the "AI Orchestrator" in Agile Squads](./02-Strategic-Frameworks/BA-as-AI-Orchestrator-Agile.md)**: New roles for BAs.
