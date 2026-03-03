@@ -46,4 +46,4 @@
 *(End of Transcript)*
 
 ## 📝 Practice Exercise:
-Use the **[Requirement-Extraction-Agent](../Workflow-Prompts/Requirement-Extraction-Agent.md)** prompt to extract formal User Stories, Guardrails, and NFRs from this transcript.
+Use the **[Requirement-Extraction-Agent](../../02-Strategic-Toolkits/Workflow-Prompts/Requirement-Extraction-Agent.md)** prompt to extract formal User Stories, Guardrails, and NFRs from this transcript.

@@ -11,35 +11,44 @@ Welcome to the **AI Business Analyst Expert Learning Path**. This repository is 
 
 ---
 
-### 🗺️ The Learning Roadmap
+## 📂 Repository Structure
 
-The curriculum is structured into six progressive modules, mirroring the lifecycle of a strategic AI initiative.
+The repository is organized into four core pillars to help you navigate the curriculum, toolkits, and portfolio artifacts.
 
-1.  **[Module 1: AI Strategy & Value Discovery](./Phase-1-AI-Strategy-Discovery/)**
-2.  **[Module 2: Data Strategy & Enterprise Readiness](./Phase-2-Data-Strategy-Readiness/)**
-3.  **[Module 3: AI Governance, Ethics & Risk](./Phase-3-Governance-Ethics-Risk/)**
-4.  **[Module 4: Conceptual AI Solution Architecture](./Phase-4-Conceptual-Architecture/)**
-5.  **[Module 5: Implementation & Change Management](./Phase-5-Implementation-Change-Mgmt/)**
-6.  **[Module 6: AI ROI & Success Measurement](./Phase-6-AI-ROI-Success-Measurement/)**
+### 🏛️ [01: Curriculum Mastery](./01-Curriculum-Mastery/)
+The heart of the learning path. Six progressive modules mirroring the lifecycle of a strategic AI initiative.
+1.  **[AI Strategy & Value Discovery](./01-Curriculum-Mastery/Phase-1-AI-Strategy-Discovery/)**
+2.  **[Data Strategy & Enterprise Readiness](./01-Curriculum-Mastery/Phase-2-Data-Strategy-Readiness/)**
+3.  **[AI Governance, Ethics & Risk](./01-Curriculum-Mastery/Phase-3-Governance-Ethics-Risk/)**
+4.  **[Conceptual AI Solution Architecture](./01-Curriculum-Mastery/Phase-4-Conceptual-Architecture/)**
+5.  **[Implementation & Change Management](./01-Curriculum-Mastery/Phase-5-Implementation-Change-Mgmt/)**
+6.  **[AI ROI & Success Measurement](./01-Curriculum-Mastery/Phase-6-AI-ROI-Success-Measurement/)**
+
+### 🛠️ [02: Strategic Toolkits](./02-Strategic-Toolkits/)
+Functional assets to use in your daily work as an AI-BA.
+- **[Workflow Prompt Templates](./02-Strategic-Toolkits/Workflow-Prompts/)**: Specialized agents for requirements, ROI, and audits.
+- **[Analytical Templates](./02-Strategic-Toolkits/Analytical-Assets/)**: Checklists and prioritization matrices.
+- **[Industry-Specific Tracks](./02-Strategic-Toolkits/Industry-Specific-Tracks/)**: Strategy overlays for FinTech and HealthTech.
+- **[Mock Enterprise Assets](./02-Strategic-Toolkits/Mock-Enterprise-Assets/)**: High-fidelity data for practice labs.
+
+### 🚀 [03: Portfolio Artifacts](./03-Portfolio-Artifacts/)
+Demonstrate your expertise through real-world applications.
+- **[High-Fidelity Case Studies](./03-Portfolio-Artifacts/Case-Studies-Theoretical/)**: Narrative examples of end-to-end AI implementations.
+- **[Capstone Project](./03-Portfolio-Artifacts/Capstone-Project/)**: Your final "Master Strategy Dossier" project.
+
+### 📖 [04: Support Resources](./04-Support-Resources/)
+Supporting documentation to guide your journey.
+- **[Learning Path Documentation](./04-Support-Resources/Learning-Path-Documentation/)**: Curriculum maps and self-assessment tools.
+- **[Curated Resources](./04-Support-Resources/Resources/)**: Books, whitepapers, and external courses.
 
 ---
 
-### 🛠️ Strategic Toolkits & Practical Labs
-In addition to the theory, this repository provides functional assets and hands-on exercises:
-- **[High-Fidelity Case Studies](./Case-Studies-Theoretical/)**: Narrative examples of end-to-end AI implementations (e.g., Global Supply Chain).
-- **[Mock Enterprise Assets](./Mock-Enterprise-Assets/)**: Simulated data and transcripts for requirement extraction practice.
-- **[Workflow Prompt Templates](./Workflow-Prompts/)**: Specialized prompts for requirement extraction, ROI analysis, and more.
-- **[Analytical Templates](./Analytical-Assets/)**: Downloadable spreadsheets and checklists for AI audits.
-- **[Industry-Specific Tracks](./Industry-Specific-Tracks/)**: Strategic overlays for HealthTech, FinTech, and Retail.
-- **[Capstone Project](./Capstone-Project/)**: The ultimate test of your AI BA skills.
+## 🚀 How to Use This Repository
 
----
-
-### 🚀 How to Use This Repository
-
-- **[Explore the Learning Path Documentation](./Learning-Path-Documentation/)**: Start here for the curriculum map, resources, and self-assessment tools.
-- **As a Portfolio**: Showcase your strategic thinking and ability to bridge the gap between AI tech and business value.
-- **As a Learning Path**: Follow the modules in order. Each folder contains its own `README.md` with learning objectives.
+- **Start with the [Self-Assessment](./04-Support-Resources/Learning-Path-Documentation/05-Self-Assessment-Tool.md)**: Evaluate your current proficiency across the six domains.
+- **Follow the Curriculum**: Move through the `01-Curriculum-Mastery` modules in order. Each folder contains its own README with labs and knowledge checks.
+- **Build Your Portfolio**: Complete the labs in each phase and use them to populate your own professional portfolio.
+- **Execute the Capstone**: Synthesize your learning into a final strategy document for a mock enterprise.
 
 ---
 
