@@ -1,0 +1,1 @@
+# Phase 3: AI Governance, Ethics & Risk\n\nBuilding guardrails, policy frameworks, and Responsible AI (RAI) lifecycles.\n\n### Key Frameworks\n- **The Responsible AI (RAI) Lifecycle**\n- **Enterprise AI Policy Framework**
