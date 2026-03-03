@@ -1,0 +1,6 @@
+Business Process,Impact Score (1-10),Feasibility Score (1-10),Strategic Alignment (H/M/L),Estimated ROI (%),AI Capability Needed
+Customer Support FAQs,9,9,H,300,LLM/RAG
+Inventory Forecasting,8,6,M,150,Predictive AI
+Employee Onboarding,4,8,L,50,Agentic Workflow
+Legal Doc Review,7,5,H,200,LLM/OCR
+Supply Chain Disruption Resolution,10,4,H,500,Multi-Agent Orchestration

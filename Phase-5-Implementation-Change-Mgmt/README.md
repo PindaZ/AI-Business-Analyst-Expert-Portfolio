@@ -1,4 +1,5 @@
 # Module 5: Implementation & Change Management\n\nScaling AI adoption, workforce upskilling, and process redesign.
+![Progress](https://geps.dev/progress/100?dangerColor=800080&warningColor=ff0000&happyColor=008000)
 
 ## Module Structure
 

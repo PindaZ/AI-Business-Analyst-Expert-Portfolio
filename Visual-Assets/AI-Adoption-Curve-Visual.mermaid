@@ -1,0 +1,18 @@
+graph LR
+    subgraph Early_Market
+        I[Innovators - 2.5%] --> EA[Early Adopters - 13.5%]
+    end
+    
+    subgraph Mainstream_Market
+        EA -->|The Chasm| EM[Early Majority - 34%]
+        EM --> LM[Late Majority - 34%]
+    end
+    
+    subgraph End_of_Life
+        LM --> L[Laggards - 16%]
+    end
+    
+    style I fill:#f9f,stroke:#333,stroke-width:2px
+    style EA fill:#bbf,stroke:#333,stroke-width:2px
+    style EM fill:#bfb,stroke:#333,stroke-width:2px
+    style LM fill:#fbb,stroke:#333,stroke-width:2px

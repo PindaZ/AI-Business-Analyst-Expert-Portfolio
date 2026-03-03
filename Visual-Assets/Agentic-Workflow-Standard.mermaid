@@ -1,0 +1,13 @@
+graph TD
+    User((User)) -->|Query| Router{Query Router}
+    Router -->|Simple| SLM[Small Language Model]
+    Router -->|Complex| Planner[Agentic Planner]
+    
+    subgraph Agentic_Loop
+        Planner -->|Action| Tools[Tool/API Access]
+        Tools -->|Result| Critic[Outcome Critic]
+        Critic -->|Iterate| Planner
+    end
+    
+    Critic -->|Final Answer| User
+    SLM --> User

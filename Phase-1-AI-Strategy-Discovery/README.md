@@ -1,4 +1,5 @@
 # Module 1: AI Strategy & Value Discovery
+![Progress](https://geps.dev/progress/100?dangerColor=800080&warningColor=ff0000&happyColor=008000)
 
 ## Overview
 This module focuses on the initial phase of any AI initiative: identifying where AI can create the most value and aligning those opportunities with strategic business goals. You will learn how to move beyond "AI for the sake of AI" and focus on solve real-world business problems.

@@ -1,5 +1,10 @@
 # AI Business Analyst Expert Portfolio & Learning Path
 
+![Role: AI-Expert BA](https://img.shields.io/badge/Role-AI--Expert%20BA-blue)
+![Modules: 60/60](https://img.shields.io/badge/Curriculum-60%20Modules-green)
+![Status: Enterprise-Grade](https://img.shields.io/badge/Status-Enterprise--Grade-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ## Strategic AI Advisory & Value Realization
 
 Welcome to the **AI Business Analyst Expert Learning Path**. This repository is a comprehensive, modular guide designed to transform Business Analysts into AI-Expert Strategists. It bridges the gap between technical AI engineering and high-level enterprise value.
@@ -8,20 +13,22 @@ Welcome to the **AI Business Analyst Expert Learning Path**. This repository is 
 
 ### 🗺️ The Learning Roadmap
 
-The curriculum is structured into six progressive modules, mirroring the lifecycle of a strategic AI initiative. Each module contains **Foundational Theory**, **Strategic Frameworks**, **Practical Labs**, and **Knowledge Checks**.
+The curriculum is structured into six progressive modules, mirroring the lifecycle of a strategic AI initiative.
 
 1.  **[Module 1: AI Strategy & Value Discovery](./Phase-1-AI-Strategy-Discovery/)**
-    *   *Goal*: Master the art of identifying high-impact AI opportunities and prioritizing them via the AI Opportunity Matrix.
 2.  **[Module 2: Data Strategy & Enterprise Readiness](./Phase-2-Data-Strategy-Readiness/)**
-    *   *Goal*: Learn to assess organizational data maturity and build "Data Moats" using RAG and structured data strategies.
 3.  **[Module 3: AI Governance, Ethics & Risk](./Phase-3-Governance-Ethics-Risk/)**
-    *   *Goal*: Build deep expertise in Responsible AI (RAI), bias mitigation, and drafting enterprise-wide AI policies.
 4.  **[Module 4: Conceptual AI Solution Architecture](./Phase-4-Conceptual-Architecture/)**
-    *   *Goal*: Understand the business logic behind agentic workflows, multi-modal systems, and cost-optimized model tiering.
 5.  **[Module 5: Implementation & Change Management](./Phase-5-Implementation-Change-Mgmt/)**
-    *   *Goal*: Master the human side of AI adoption—upskilling, process redesign, and managing the "AI Adoption Curve."
 6.  **[Module 6: AI ROI & Success Measurement](./Phase-6-AI-ROI-Success-Measurement/)**
-    *   *Goal*: Learn how to build a rock-solid business case for the C-Suite, tracking both technical KPIs and financial ROI.
+
+---
+
+### 🛠️ Strategic Toolkits
+In addition to the theory, this repository provides functional assets:
+- **[Workflow Prompt Templates](./Workflow-Prompts/)**: Specialized prompts for requirement extraction, ROI analysis, and more.
+- **[Analytical Templates](./Analytical-Assets/)**: Downloadable spreadsheets and checklists for AI audits.
+- **[Architecture Diagrams](./Visual-Assets/)**: Visual frameworks for agentic systems.
 
 ---
 
@@ -29,10 +36,12 @@ The curriculum is structured into six progressive modules, mirroring the lifecyc
 
 - **[Explore the Learning Path Documentation](./Learning-Path-Documentation/)**: Start here for the curriculum map, resources, and self-assessment tools.
 - **As a Portfolio**: Showcase your strategic thinking and ability to bridge the gap between AI tech and business value.
-- **As a Learning Path**: Follow the modules in order. Each folder contains its own `README.md` with learning objectives and prerequisites.
-- **As a Toolkit**: Use the "Practical Labs" to run strategy workshops and data audits in your current organization.
+- **As a Learning Path**: Follow the modules in order. Each folder contains its own `README.md` with learning objectives.
 
 ---
 
 **Author**: AI-Expert Business Analyst / Business Advisor  
 **Focus**: Strategic AI Alignment | AI Governance | Data Readiness | ROI Optimization
+
+[![Contact](https://img.shields.io/badge/Contact-Business%20Inquiry-blue?style=for-the-badge)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://linkedin.com/in/your-profile)

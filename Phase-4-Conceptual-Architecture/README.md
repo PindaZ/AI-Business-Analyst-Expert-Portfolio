@@ -1,4 +1,5 @@
 # Module 4: Conceptual AI Solution Architecture\n\nDesigning agentic workflows, multi-modal systems, and model-tiering strategies.
+![Progress](https://geps.dev/progress/100?dangerColor=800080&warningColor=ff0000&happyColor=008000)
 
 ## Module Structure
 

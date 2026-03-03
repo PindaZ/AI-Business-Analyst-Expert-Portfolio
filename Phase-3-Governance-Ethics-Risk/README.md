@@ -1,4 +1,5 @@
 # Module 3: AI Governance, Ethics & Risk\n\nBuilding guardrails, policy frameworks, and Responsible AI (RAI) lifecycles.
+![Progress](https://geps.dev/progress/100?dangerColor=800080&warningColor=ff0000&happyColor=008000)
 
 ## Module Structure
 
