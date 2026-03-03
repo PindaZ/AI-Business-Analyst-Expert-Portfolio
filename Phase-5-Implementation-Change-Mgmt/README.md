@@ -1,1 +1,1 @@
-# Phase 5: Implementation & Change Management\n\nScaling AI adoption, workforce upskilling, and process redesign.\n\n### Key Frameworks\n- **The AI Adoption Curve**\n- **AI Upskilling & Adoption Roadmap**
+# Module 5: Implementation & Change Management\n\nScaling AI adoption, workforce upskilling, and process redesign.

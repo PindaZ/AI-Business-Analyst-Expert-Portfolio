@@ -1,1 +1,1 @@
-# Phase 4: Conceptual AI Solution Architecture\n\nDesigning agentic workflows, multi-modal systems, and model-tiering strategies.\n\n### Key Frameworks\n- **Agentic Workflow Architecture**\n- **Model-Tiering & Cost-Benefit Models**
+# Module 4: Conceptual AI Solution Architecture\n\nDesigning agentic workflows, multi-modal systems, and model-tiering strategies.

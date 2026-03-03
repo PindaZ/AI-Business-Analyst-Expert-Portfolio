@@ -1,0 +1,1 @@
+### Further Reading\n\n1. [McKinsey: The Economic Potential of Generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)
