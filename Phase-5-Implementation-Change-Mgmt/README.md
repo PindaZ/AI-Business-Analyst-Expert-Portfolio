@@ -3,12 +3,14 @@
 ## Module Structure
 
 ### 1. [Foundational Theory](./01-Foundational-Theory/)
+- **[Measuring Employee AI Sentiment & Adoption](./01-Foundational-Theory/Measuring-Employee-AI-Sentiment.md)**: Tracking the human side of AI rollout.
 - **[Change Management for the Transition from Chatbots to Agents](./01-Foundational-Theory/Transition-Chatbots-to-Agents.md)**: Specialized change management for autonomous agents.
 - **[Process Re-engineering for "Agent-Compatibility"](./01-Foundational-Theory/Process-Re-engineering-Agent-Compatibility.md)**: Redesigning workflows for autonomous agents.
 - **[AI-Adoption-Curve](./01-Foundational-Theory/AI-Adoption-Curve.md)**: Managing the psychology of change.
 - **[Upskilling for the "AI Headcount": Redefining Jobs](./01-Foundational-Theory/Upskilling-AI-Headcount-Job-Redefinition.md)**: The human-agent workforce.
 
 ### 2. [Strategic Frameworks](./02-Strategic-Frameworks/)
+- **[Developing a Continuous Feedback Loop for Model Improvement](./02-Strategic-Frameworks/Continuous-Feedback-Loop-Model-Improvement.md)**: Iterative optimization of AI systems.
 - **[Strategy for Retiring Legacy Automation (RPA) for Agentic AI](./02-Strategic-Frameworks/Retiring-Legacy-RPA-for-Agentic-AI.md)**: Phasing out legacy automation for agents.
 - **[Building an AI Center of Excellence (CoE)](./02-Strategic-Frameworks/Building-AI-Center-of-Excellence.md)**: Centralizing AI innovation and governance.
 - **[Upskilling-Roadmap](./02-Strategic-Frameworks/Upskilling-Roadmap.md)**: Step-by-step training plans.
