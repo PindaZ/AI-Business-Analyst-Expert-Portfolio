@@ -24,11 +24,14 @@ The curriculum is structured into six progressive modules, mirroring the lifecyc
 
 ---
 
-### 🛠️ Strategic Toolkits
-In addition to the theory, this repository provides functional assets:
+### 🛠️ Strategic Toolkits & Practical Labs
+In addition to the theory, this repository provides functional assets and hands-on exercises:
+- **[High-Fidelity Case Studies](./Case-Studies-Theoretical/)**: Narrative examples of end-to-end AI implementations (e.g., Global Supply Chain).
+- **[Mock Enterprise Assets](./Mock-Enterprise-Assets/)**: Simulated data and transcripts for requirement extraction practice.
 - **[Workflow Prompt Templates](./Workflow-Prompts/)**: Specialized prompts for requirement extraction, ROI analysis, and more.
 - **[Analytical Templates](./Analytical-Assets/)**: Downloadable spreadsheets and checklists for AI audits.
-- **[Architecture Diagrams](./Visual-Assets/)**: Visual frameworks for agentic systems.
+- **[Industry-Specific Tracks](./Industry-Specific-Tracks/)**: Strategic overlays for HealthTech, FinTech, and Retail.
+- **[Capstone Project](./Capstone-Project/)**: The ultimate test of your AI BA skills.
 
 ---
 
