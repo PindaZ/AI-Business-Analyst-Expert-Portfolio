@@ -27,6 +27,7 @@ The curriculum is structured into six progressive modules, mirroring the lifecyc
 
 ### 🚀 How to Use This Repository
 
+- **[Explore the Learning Path Documentation](./Learning-Path-Documentation/)**: Start here for the curriculum map, resources, and self-assessment tools.
 - **As a Portfolio**: Showcase your strategic thinking and ability to bridge the gap between AI tech and business value.
 - **As a Learning Path**: Follow the modules in order. Each folder contains its own `README.md` with learning objectives and prerequisites.
 - **As a Toolkit**: Use the "Practical Labs" to run strategy workshops and data audits in your current organization.
